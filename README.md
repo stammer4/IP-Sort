@@ -9,4 +9,4 @@ You accidently shuffled your list of IP addresses and would like to see them in 
 
 Add your list of Disorganized IP addresses to a text file, run the python script. 
 
-Example: python3 ipsort.py FILE.TXT
+Example: python3 ip-sort.py FILE.TXT
