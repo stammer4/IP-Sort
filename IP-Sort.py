@@ -33,4 +33,4 @@ try:
 	for ipaddr in sorted_list:
 		print(ipaddr)
 except: 
-	print('Please input file name when starting script, example: python3 ipsort.py FILENAME.txt')
+	print('Please input file name when starting script, example: python3 ip-sort.py FILENAME.txt')
